@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.work{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.btn-flat{
+    border-radius: 0;
+    
+}
+.btn-pad{
+    padding: 12px 35px;
+}
+.contact{
+    background-color:#fcfcfc;
+    padding: 35px 60px;
+}
+ .btn-post{
+    text-align: right;
+}
+.text-icon{
+    color:#f88147;
+}
+.contact h5{
+    margin: 2px;
+}
+.contact a{
+    text-decoration: none;
+    color: #8f808f;
+   
+}
+.logo ul li a{
+    text-decoration: none;
+    color:#404040;
+   padding: 10px 15px;
+   font-size: 16px;
+}
+.logo ul li a:hover{
+    background-color: #f88147;
+    color: white;
+    border-radius: 0;
+}
+.move-right{
+    padding-left: 60px;
+ 
+}
+
+
+.image-form{
+   background: url("images/image-form.jpg");
+   background-size: cover;
+   width: 100%;
+   height: 200px;
+   padding: 15px 0 30px 0;
+   color: white;
+}
+.form1{
+   width: 80%;
+           
+   margin: auto;
+}
+.recruiter a{
+   text-decoration: none;
+   color:#404040;
+}
+.some-text span{
+color:#31708f;
+}
+.some-text p{
+   font-size: 16px;
+   text-align: justify;
+   color: #4e4d4d;
+}
+
+hr{
+   border: 2px solid  #f88147;
+   border-radius: 5px;
+   width: 50px;
+   margin-left: 0;
+}
+.bold{
+   font-weight: bold;
+}
+.services{
+ background-color: #20232e;
+ padding: 60px 0px;
+}
+.footer-link li {
+color: #a9a9a9;
+list-style-type: none;
+padding: 5px 0;
+
+}
+.footer-link li a{
+ color:#a9a9a9;
+ text-decoration: none;
+}
+.footer-link li a:hover{
+color: #f88147;
+}
+
+.footer{
+background-color: black;
+color: #a9a9a9;
+padding: 20px;
+}
+.footer span{
+color: #f88147;
+}
+.footer .directions{
+color: white;
+font-size: 20px;
+text-align: right;
+}
+.directions a{
+color: white;
+padding: 20px 30px;
+}
+#headin1 h4 a{
+color: black;
+text-decoration: none;
+}
